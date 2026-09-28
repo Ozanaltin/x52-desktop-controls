@@ -4,6 +4,12 @@ Give a flight controller a second job on your Windows desktop.
 
 An AutoHotkey v2 script that repurposes the **Logitech X52 Professional HOTAS** for absolute YouTube Music Desktop volume control and one-button Windows screen snipping. Created by Ozan Altin, with AI-assisted development and hands-on testing on his own setup.
 
+<p align="center">
+  <img src="https://resource.logitechg.com/w_544%2Ch_466%2Car_7%3A6%2Cc_pad%2Cq_auto%2Cf_auto%2Cdpr_1.0/d_transparent.gif/content/dam/gaming/en/products/x52-pro-hotas/x52pro-gallery-1.png" alt="Logitech X52 Professional HOTAS joystick and throttle set" width="544">
+</p>
+
+<p align="center"><sub>Product image: <a href="https://www.logitechg.com/en-au/shop/p/x52-pro-space-flight-simulator-controller">Logitech G</a>. All rights belong to their respective owners.</sub></p>
+
 ## What it does
 
 | Control / condition | Result |
