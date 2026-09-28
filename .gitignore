@@ -1,0 +1,16 @@
+# Local authorization and personal configuration
+*.ini
+*.pr0
+.env
+.env.*
+
+# Local logs and compiled builds
+*.log
+*.exe
+*.bak
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
